@@ -27,7 +27,7 @@ int main()
 		scanf("%d",&aa[i].st);
 	}
 	
-	//sorting
+	
 	for(i=0;i<n;i++)
 	{
 		for(j=i;j>=1;j--)
